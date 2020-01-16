@@ -1,0 +1,115 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#seccion1 {
+  background: url("../images/seven-01.jpg");
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 1000px;
+}
+
+#seccion2 {
+  background: url("../images/seven-02.jpg");
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 1000px;
+}
+
+#seccion3 {
+  background: url("../images/seven-03.jpg");
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 1000px;
+}
+
+#seccion4 {
+  background: url("../images/seven-04.jpg");
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 1000px;
+}
+
+#seccion5 {
+  background: url("../images/seven-05.jpg");
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 1000px;
+}
+
+#seccion6 {
+  background: url("../images/seven-06.jpg");
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 1000px;
+}
+
+#seccion7 {
+  background: url("../images/seven-07.jpg");
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 1000px;
+}
+
+#seccion8 {
+  background: url("../images/seven-08.jpg");
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 1000px;
+}
+
+#seccion1 .edd {
+  text-align: center;
+  font-size: 18px;
+  color: #6392a7;
+  padding-top: 10%;
+}
+#seccion1 .titulo1 {
+  text-align: center;
+  font-size: 13px;
+  color: rgb(241, 241, 241);
+}
+
+.info {
+  padding: 30px;
+  text-align: center;
+  color: #6392a7;
+}
+
+.info p {
+  padding-bottom: 20px;
+}
+
+.button-insta {
+  background-color: #6392a7;
+  padding: 10px;
+  font-size: 12px;
+  color: white;
+  border: 0;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+  .button-insta:hover {
+    background-color: #215681;
+  }
+
